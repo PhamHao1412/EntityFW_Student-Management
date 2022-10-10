@@ -242,11 +242,13 @@ namespace MNST
 
         private void bntAdd_Click(object sender, EventArgs e)
         {
+            //Nút thêm
             Add();
         }
 
         private void btnQuit_Click(object sender, EventArgs e)
         {
+            //Nút đóng
             this.Close();
         }
 
